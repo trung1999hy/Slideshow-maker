@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ImageView
+        android:id="@+id/icon_splash"
+        android:layout_width="@dimen/slideshow_50dp"
+        android:layout_height="@dimen/slideshow_70dp"
+        android:src="@drawable/icon_remove_ads"
+        android:layout_marginStart="@dimen/slideshow_24dp"
+        android:layout_marginEnd="@dimen/slideshow_24dp"
+        />
+</LinearLayout>

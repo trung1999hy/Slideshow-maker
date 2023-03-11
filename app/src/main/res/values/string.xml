@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="tvt_splash">Photo Video Maker</string>
+    <string name="tvt_total_splash">Slideshow</string>
+    <string name="textview">This action may contain ads</string>
+    <string name="textview_splash_2">Upgrade Premium</string>
+    <string name="textview_splash_3">Monthly</string>
+    <string name="textview_splash_4">Then 99$/Mon</string>
+    <string name="textview_splash_Year">Yearly</string>
+    <string name="textview_splash_Lifetime">Lifetime</string>
+    <string name="textview_splash_Price_Lifetime">Then 99$</string>
+    <string name="textview_splash_Button">Upgrade Premium</string>
+    <string name="textview_splash_price">Then 99$/Year</string>
+    <string name="tv_create_home_photo">New Project</string>
+    <string name="tv_create_home">Create</string>
+    <string name="tv_my_projects">My Projects</string>
+    <string name="tv_my_videos">My Videos</string>
+    <string name="tv_my_all_projects">Show All >></string>
+    <string name="tv_my_audio">Extract Audio</string>
+    <string name="tv_total">Project</string>
+    <string name="tv_total_project">Project:</string>
+    <string name="tv_home_item">You don\'t have any projects yet! </string>
+    <string name="tv_home_item_2">Let\'s create a project by clicking (+) on the screen</string>
+    <string name="tv_my_project">Save the projects you\'ve worked on!</string>
+</resources>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/img_splash"
+            android:layout_width="@dimen/slideshow_100dp"
+            android:layout_height="@dimen/slideshow_100dp"
+            android:layout_marginTop="@dimen/slideshow_200dp"
+            android:src="@drawable/imgsplash"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/tv_splash"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/slideshow_17dp"
+            android:text="@string/tvt_splash"
+            android:textSize="@dimen/slideshow_18dp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/img_splash" />
+
+        <TextView
+            android:id="@+id/tvt_splash"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/tvt_total_splash"
+            android:textSize="@dimen/slideshow_22dp"
+            android:textColor="@color/color_splash"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tv_splash"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/textview"
+            android:layout_marginBottom="@dimen/slideshow_33dp"
+            android:textSize="@dimen/slideshow_12dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:textColor="@color/black"
+
+            />
+        <com.google.android.material.progressindicator.LinearProgressIndicator
+            android:id="@+id/progress_circular"
+            android:layout_width="0dp"
+            android:layout_height="@dimen/slideshow_2dp"
+            android:progress="0"
+            android:layout_marginStart="@dimen/slideshow_40dp"
+            android:layout_marginTop="@dimen/slideshow_19dp"
+            android:layout_marginEnd="@dimen/slideshow_40dp"
+            app:indicatorColor="@color/color_splash"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tvt_splash" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<dimen name="slideshow_100dp">100dp</dimen>
+<dimen name="slideshow_200dp">200dp</dimen>
+<dimen name="slideshow_17dp">17dp</dimen>
+<dimen name="slideshow_10dp">10dp</dimen>
+<dimen name="slideshow_60dp">60dp</dimen>
+<dimen name="slideshow_20dp">20dp</dimen>
+<dimen name="slideshow_98dp">98dp</dimen>
+<dimen name="slideshow_233dp">233dp</dimen>
+<dimen name="slideshow_25dp">25dp</dimen>
+<dimen name="slideshow_24dp">24dp</dimen>
+<dimen name="slideshow_21dp">21dp</dimen>
+<dimen name="slideshow_11dp">11dp</dimen>
+<dimen name="slideshow_39dp">39dp</dimen>
+<dimen name="slideshow_52dp">52dp</dimen>
+<dimen name="slideshow_70dp">70dp</dimen>
+<dimen name="slideshow_26dp">26dp</dimen>
+<dimen name="slideshow_27dp">27dp</dimen>
+<dimen name="slideshow_50dp">50dp</dimen>
+<dimen name="slideshow_56dp">56dp</dimen>
+<dimen name="slideshow_40dp">40dp</dimen>
+<dimen name="slideshow_41dp">41dp</dimen>
+<dimen name="slideshow_28dp">28dp</dimen>
+<dimen name="slideshow_15dp">15dp</dimen>
+<dimen name="slideshow_76dp">76dp</dimen>
+<dimen name="slideshow_42dp">42dp</dimen>
+<dimen name="slideshow_13dp">13dp</dimen>
+<dimen name="slideshow_3dp">3dp</dimen>
+<dimen name="slideshow_5dp">5dp</dimen>
+<dimen name="slideshow_2dp">2dp</dimen>
+<dimen name="slideshow_14dp">14dp</dimen>
+<dimen name="slideshow_19dp">19dp</dimen>
+<dimen name="slideshow_82dp">82dp</dimen>
+<dimen name="slideshow_58dp">58dp</dimen>
+<dimen name="slideshow_12dp">12dp</dimen>
+<dimen name="slideshow_36dp">36dp</dimen>
+<dimen name="slideshow_34dp">34dp</dimen>
+<dimen name="slideshow_31dp">31dp</dimen>
+<dimen name="slideshow_231dp">231dp</dimen>
+<dimen name="slideshow_18dp">18dp</dimen>
+<dimen name="slideshow_16dp">16dp</dimen>
+<dimen name="slideshow_165dp">165dp</dimen>
+<dimen name="slideshow_110dp">110dp</dimen>
+<dimen name="slideshow_125dp">125dp</dimen>
+<dimen name="slideshow_22dp">22dp</dimen>
+<dimen name="slideshow_33dp">33dp</dimen>
+    <dimen name="_4sdp">4sp</dimen>
+    <dimen name="_8sdp">8dp</dimen>
+    <dimen name="_30sdp">30dp</dimen>
+
+</resources>

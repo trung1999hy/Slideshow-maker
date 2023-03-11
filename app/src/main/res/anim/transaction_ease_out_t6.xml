@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Created by PS Solutions on 10/26/2020.
+  ~ Copyright © 2020 Softbank. All rights reserved.
+  ~
+  -->
+
+<pathInterpolator xmlns:android="http://schemas.android.com/apk/res/android"
+    android:controlX1="0.19"
+    android:controlY1="1"
+    android:controlX2="0.22"
+    android:controlY2="1"/>
